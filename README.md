@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopVerse - Cypress Practice Application
 
 A complete e-commerce style web application (React + Node/Express API) built for practising **UI and API test automation with Cypress**. It runs entirely on your laptop, needs no database, and can be reset to a clean state with one API call.
@@ -147,3 +148,6 @@ src/ctx.jsx          login state, cart count, toast
 src/pages/           Shop, Product (reviews), Wishlist, Orders (cart, checkout, orders, returns), Auth, Admin, Saas
 cypress/e2e/         sample specs
 ```
+=======
+# shopverse_webApp_Bibhu
+>>>>>>> a26c1674c8fee5ed0399e7dc2387c7d2bfd2c3e2
